@@ -1,2 +1,2 @@
-# SolitireMovie
+# SolitaireMovie
 projet info en pascal
