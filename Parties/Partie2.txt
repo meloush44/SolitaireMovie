@@ -1,0 +1,552 @@
+debut du programme
+lancement de la sdl
+0    0    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    3    7    12    8     
+0    0    0    0    4    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    0    1     
+0    0    0    0    0    0    0     
+plateau affiche
+affichage du plateau
+debut de cliquer carte
+position clic : 715 491
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 4 6
+Fin de trouver carte
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 1087 561
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 6 8
+Fin de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+carte prec : 4
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+not cliccartepioche et joh1
+k : 6
+carte_select.pos.y : 6
+carte prec : 0
+le truc en y : 9
+carte select : 3
+fin de deplacer carte
+0    0    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    4    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    1     
+0    0    0    0    0    0    0     
+debut de cliquer carte
+position clic : 1275 600
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 7 9
+Fin de trouver carte
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 1582 420
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 2 1
+Fin de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+carte prec : 0
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+P.y = 1 donc faux
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    4    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    0     
+0    0    0    0    0    0    0     
+debut de cliquer carte
+position clic : 174 205
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de glissercarte
+ClicUp : -1 -1
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+fin de relacher carte
+debut de la verification
+fin de la verification
+debut de deplacer carte
+debut de retourner carte pioche
+fin de deplacer carte pioche
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    4    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    0     
+0    0    0    0    0    0    0     
+debut de cliquer carte
+position clic : 174 205
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de glissercarte
+ClicUp : -1 -1
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+fin de relacher carte
+debut de la verification
+fin de la verification
+debut de deplacer carte
+debut de retourner carte pioche
+fin de deplacer carte pioche
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    4    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    0     
+0    0    0    0    0    0    0     
+debut de cliquer carte
+position clic : 340 137
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 1300 599
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 7 8
+Fin de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+carte prec : 6
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+debut de deplacer carte pioche
+carte prec pour la pioche : 5
+position carte prec :7 9
+fin de deplacer carte pioche
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    4    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    0    0     
+debut de cliquer carte
+position clic : 913 573
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 5 7
+Fin de trouver carte
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 1305 641
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 7 9
+Fin de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+carte prec : 5
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+not cliccartepioche et joh1
+k : 7
+carte_select.pos.y : 7
+carte prec : 0
+le truc en y : 10
+carte select : 4
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    0    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    0    4     
+debut de cliquer carte
+position clic : 188 164
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de glissercarte
+ClicUp : -1 -1
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+fin de relacher carte
+debut de la verification
+fin de la verification
+debut de deplacer carte
+debut de retourner carte pioche
+fin de deplacer carte pioche
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    0    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    0    4     
+debut de cliquer carte
+position clic : 543 522
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 3 5
+Fin de trouver carte
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 356 181
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    0    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    0    4     
+debut de cliquer carte
+position clic : 1086 513
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 6 8
+Fin de trouver carte
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 325 78
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    0    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    0    4     
+debut de cliquer carte
+position clic : 1069 587
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 6 9
+Fin de trouver carte
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 299 110
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    0    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    0    4     
+debut de cliquer carte
+position clic : 341 124
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 1128 628
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 6 9
+Fin de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+carte prec : 3
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+debut de deplacer carte pioche
+carte prec pour la pioche : 2
+position carte prec :6 10
+fin de deplacer carte pioche
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    0    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    2    4     
+debut de cliquer carte
+position clic : 1122 628
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de emplaclicable
+emplaclicable : TRUE
+fin de emplaclicable
+debut de trouver carte
+debut de jeu ou haut
+fin de jeu ou haut
+pl trouver carte 6 10
+Fin de trouver carte
+fin de cliquer carte
+debut de glissercarte
+ClicUp : 365 120
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+not cliccartepioche et joh1
+k : 10
+carte_select.pos.y : 10
+carte prec : 2
+le truc en y : 10
+carte select : 2
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    0    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    0    4     
+debut de cliquer carte
+position clic : 1381 140
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+debut de jeu ou haut
+fin de jeu ou haut
+debut de glissercarte
+ClicUp : -1 -1
+fin de glisser carte
+debut de relacher carte
+debut de emplaclicable
+emplaclicable : FALSE
+fin de emplaclicable
+fin de relacher carte
+debut de la verification
+debut de jeu ou haut
+fin de jeu ou haut
+fin de la verification
+debut de deplacer carte
+not cliccartepioche et joh1
+k : 9
+carte_select.pos.y : 10
+fin de deplacer carte
+0    1    0    0    0    0    0     
+14    14    14    14    14    14    14     
+4    2    1    1    5    10    3     
+0    13    5    10    7    3    11     
+0    0    2    7    12    11    3     
+0    0    0    0    7    12    8     
+0    0    0    0    0    2    5     
+0    0    0    0    0    4    6     
+0    0    0    0    0    3    5     
+0    0    0    0    0    0    4     
